@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityComparer", "EqualityComparer\EqualityComparer.csproj", "{9646EBA0-3B2C-477A-90C5-AF38C0C433F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityComparerTests", "EqualityComparerTests\EqualityComparerTests.csproj", "{DEA1C449-8D30-4F9E-AC4A-B9A91DBC6898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9646EBA0-3B2C-477A-90C5-AF38C0C433F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9646EBA0-3B2C-477A-90C5-AF38C0C433F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9646EBA0-3B2C-477A-90C5-AF38C0C433F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9646EBA0-3B2C-477A-90C5-AF38C0C433F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA1C449-8D30-4F9E-AC4A-B9A91DBC6898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA1C449-8D30-4F9E-AC4A-B9A91DBC6898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA1C449-8D30-4F9E-AC4A-B9A91DBC6898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA1C449-8D30-4F9E-AC4A-B9A91DBC6898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C5C5A7E-F10E-4538-990B-97D2030DCFAB}
+	EndGlobalSection
+EndGlobal
